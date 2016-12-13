@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "system",
+		"sourceMap": true,
+		"watch": true
+	},
+	"include": [
+		"app/**/*.ts"
+	],
+	"exclude": [
+		"**/tsDefs/*"
+	]
+}

@@ -38,6 +38,7 @@
     "gulp-less": "^3.1.0",
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.4",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^1.2.2",
+    "phaser": "^2.6.2"
   }
 }
