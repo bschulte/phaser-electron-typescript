@@ -15,12 +15,12 @@ Small edits made from this repo: https://github.com/kitanata/Electron-Phaser
 ├── LICENSE             - The MIT License
 ├── README.md           - This README
 ├── app                 - All the application files
-│   ├── app.js          - The application bootstrap script.
+│   ├── app.ts          - The application bootstrap script.
 │   ├── assets          - All assets go here. Will copy to dist.
 │   │   └── images      - You can structure these folders however you want.
 │   ├── index.html      - The basic index.html (shouldn't need to modify this too much.)
 │   ├── states          - All the game states go here.
-│   │   └── main.js     - The main game state.
+│   │   └── main.ts     - The main game state.
 ├── dist                - This directory gets created when you run gulp.
 ├── gulpfile.js         
 ├── main.js             - Electron bootstrap file.
