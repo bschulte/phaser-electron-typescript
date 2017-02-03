@@ -1,6 +1,7 @@
 # Electron-Phaser
 
-An starter project for PhaserJS and Electron. :)
+An starter project for PhaserJS and Electron (and Typescript!). :)
+Small edits made from this repo: https://github.com/kitanata/Electron-Phaser
 
 # Getting Started
 
@@ -44,7 +45,3 @@ more like an open wiki than a standard guarded open source project.
 Read more at http://www.openopensource.org
 
 Please contribute!
-
-# Code Camp Notes
-
-The assets for the workshop is located here: http://www.filedropper.com/puzzleassets80assets
